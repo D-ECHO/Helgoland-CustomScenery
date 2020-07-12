@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<groundnet>
+  <version>1</version>
+  <parkingList>
+        <Parking index="0" type="gate" name="Apron_1_-_1" lat="N54 11.174863" lon="E7 54.868181" heading="322.25"  radius="19" airlineCodes="" />
+        <Parking index="1" type="gate" name="Apron_1_-_2" lat="N54 11.179803" lon="E7 54.879694" heading="322.25"  radius="19" airlineCodes="" />
+        <Parking index="2" type="gate" name="Apron_1_-_3" lat="N54 11.184744" lon="E7 54.891514" heading="322.25"  radius="19" airlineCodes="" />
+        <Parking index="3" type="gate" name="Apron_1_-_4" lat="N54 11.202983" lon="E7 54.866087" heading="145.51"  radius="19" airlineCodes="" />
+        <Parking index="4" type="gate" name="Apron_1_-_5" lat="N54 11.207445" lon="E7 54.876526" heading="145.51"  radius="19" airlineCodes="" />
+        <Parking index="5" type="gate" name="Apron_1_-_6" lat="N54 11.211690" lon="E7 54.884521" heading="145.51"  radius="19" airlineCodes="" />
+        <Parking index="6" type="gate" name="Apron_2_-_1" lat="N54 11.261441" lon="E7 54.959236" heading="182.39"  radius="19" airlineCodes="" />
+        <Parking index="7" type="gate" name="Apron_2_-_2" lat="N54 11.265932" lon="E7 54.969084" heading="182.39"  radius="19" airlineCodes="" />
+        <Parking index="8" type="gate" name="Apron_2_-_3" lat="N54 11.269788" lon="E7 54.979366" heading="182.39"  radius="19" airlineCodes="" />
+ </parkingList>
+</groundnet>

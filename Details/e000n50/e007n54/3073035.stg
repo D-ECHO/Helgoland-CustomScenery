@@ -1,0 +1,49 @@
+# piers_e000n50_e007n54_3073035
+# do not edit below this line
+# Last Written Sun Jul 12 07:03:56 2020
+#
+OBJECT_STATIC e000n50_e007n54_3073035piers0402.ac 7.88787 54.16992 0.00 0
+OBJECT_STATIC e000n50_e007n54_3073035piers0403.ac 7.88787 54.18789 0.00 0
+OBJECT_STATIC e000n50_e007n54_3073035piers0503.ac 7.91850 54.18789 0.00 0
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 7.88865 54.18361 0.00 -16.4784
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 7.88897 54.18346 0.00 314.931
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 7.88862 54.18366 0.00 253.741
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 7.90403 54.18472 -0.97 238.058
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat.ac 7.89195 54.18008 -0.00 134.805
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 7.89210 54.17999 -0.00 74.856
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 7.89228 54.17988 -0.00 134.607
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 7.89250 54.17975 -0.00 74.6176
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 7.89025 54.18321 -0.00 165.752
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 7.89009 54.18312 -0.00 165.749
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 7.89054 54.18338 -0.26 226.096
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 7.89045 54.18445 -0.58 319.737
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 7.89011 54.18465 -0.58 207.589
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 7.88934 54.18424 -0.58 55.7421
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 7.88860 54.18382 -0.58 165.742
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 7.89114 54.18037 0.00 134.535
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 7.89140 54.18026 0.00 133.978
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 7.89156 54.18017 0.00 73.989
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 7.88916 54.17774 -0.00 252.943
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 7.88893 54.17786 -0.00 312.959
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 7.89390 54.17673 0.00 -26.5946
+OBJECT_SHARED Models/Maritime/Civilian/MediumFerry.xml 7.89548 54.17661 -0.00 -46.6361
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 7.88878 54.17791 -0.00 253.482
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 7.89336 54.17692 -0.00 124.64
+OBJECT_SHARED Models/Maritime/Civilian/wooden_boat.ac 7.89383 54.17673 -0.00 65.2083
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 7.89403 54.17664 -0.00 65.2263
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 7.90374 54.18465 -1.42 227.895
+OBJECT_SHARED Models/Maritime/Civilian/wooden_green_boat.ac 7.89453 54.17509 -0.00 21.4428
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 7.89148 54.17979 0.00 134.556
+OBJECT_SHARED Models/Maritime/Civilian/blue-sailing-boat-20m.ac 7.89148 54.17979 0.00 134.556
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 7.89178 54.17993 0.00 314.621
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-11m.ac 7.89178 54.17993 0.00 314.621
+OBJECT_SHARED Models/Maritime/Civilian/wide_red_yacht.ac 7.90387 54.18486 -2.00 237.6
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 7.90378 54.18486 -2.00 327.433
+OBJECT_SHARED Models/Maritime/Civilian/wide_clear_yacht.ac 7.90342 54.18472 -2.00 147.907
+OBJECT_SHARED Models/Maritime/Civilian/red-sailing-boat-20m.ac 7.90378 54.18486 -2.00 327.433
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 7.90342 54.18472 -2.00 147.907
+OBJECT_SHARED Models/Maritime/Civilian/small-black-yacht.ac 7.90387 54.18486 -2.00 237.6
+OBJECT_SHARED Models/Maritime/Civilian/small-red-yacht.ac 7.90387 54.18486 -2.00 237.6
+OBJECT_SHARED Models/Maritime/Civilian/wide_black_yacht.ac 7.90355 54.18477 -2.00 327.275
+OBJECT_SHARED Models/Maritime/Civilian/wooden_blue_boat.ac 7.90341 54.18491 -2.00 268.033
+# END piers_e000n50_e007n54_3073035
